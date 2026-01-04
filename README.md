@@ -1,4 +1,8 @@
 # 📊 Netflix Data Analysis Project (SQL)
+
+![Netflix_Logo]()
+
+
 📌 Project Overview
 
 
