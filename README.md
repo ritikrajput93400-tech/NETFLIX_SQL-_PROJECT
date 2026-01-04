@@ -1,5 +1,7 @@
-📊 Netflix Data Analysis Project (SQL)
+# 📊 Netflix Data Analysis Project (SQL)
 📌 Project Overview
+
+
 
 This project performs exploratory data analysis (EDA) on a Netflix dataset using SQL.
 The goal is to analyze movies and TV shows available on Netflix and answer real-world business questions related to content type, ratings, countries, genres, actors, directors, and trends over time.
