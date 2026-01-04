@@ -1,6 +1,6 @@
 # 📊 Netflix Data Analysis Project (SQL)
 
-![Netflix_Logo]()
+![Netflix_Logo](https://github.com/ritikrajput93400-tech/NETFLIX_SQL-_PROJECT/blob/main/pngwing.com.png)
 
 
 📌 Project Overview
